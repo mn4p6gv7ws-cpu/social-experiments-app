@@ -1,0 +1,14 @@
+# .gitignore for social-experiments-app
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build artifacts
+/build
+
+# IDE files
+*.idea/
+*.vscode/
