@@ -1,0 +1,1 @@
+{\n  "name": "social-experiments-app",\n  "private": true,\n  "workspaces": [\n    "server/*",\n    "client/*",\n    "mobile/*"\n  ]\n}
